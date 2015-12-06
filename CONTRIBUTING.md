@@ -60,7 +60,7 @@ These are:
 
 - Commits should be written in the imperative mood
 - Commits should start with a capitol letter
-- Commits should not end with a full stop
+- Commits should not end with a full sto
 
 This is a style used by many other Open Source projects (Linux, Rails) as well
 as most corporate software development shops.
