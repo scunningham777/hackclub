@@ -1,4 +1,4 @@
-# Contributing to Hack Club
+# Test
 
 Contributions to Hack Club are very welcome, and strongly encouraged (even to
 this document)!
